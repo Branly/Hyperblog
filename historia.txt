@@ -1,5 +1,7 @@
-Esta es la historia de una nueva forma de pensar
+Esta es la historia
 
-de como inicie a trabajar con un nuevo programa
+de como inicie a trabajar
 
 en git guh
+
+Muy bueno para programación
